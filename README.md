@@ -1,1 +1,2 @@
 # SaveDNAworks
+It's a program designed to save number of strand of oligoDNAs that required to synthesize DNA based on DNAworks when user need to synthesize multiple strands of dna with similar sequence.
